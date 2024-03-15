@@ -313,3 +313,4 @@ discord.gift
 discordstatus.com
 dis.gd
 discord.co
+mw-solaris.com
